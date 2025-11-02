@@ -8,7 +8,7 @@
 ███████║██║██║ ╚═╝ ██║██║     ███████╗███████╗    ██   ██╝██║  ██║╚██████╔╝
 ╚══════╝╚═╝╚═╝     ╚═╝╚═╝     ╚══════╝╚══════╝    ╚═   ═╝ ╚═╝  ╚═╝ ╚═════╝ 
 
-A tiny, funky README for the Proof-of-Concept using **FastAPI** + **Postgres (Neon)**.
+A tiny, funky README for the Proof-of-Concept using FastAPI + Postgres (Neon).
 ```
 
 ---
