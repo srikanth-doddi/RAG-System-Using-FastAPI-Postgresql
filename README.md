@@ -123,6 +123,7 @@ Notes:
 * If `uvicorn main:app` fails, verify the file name `main.py` and that it defines `app = FastAPI()`.
 
 ---
+![Swagger](Img/swagger.png)
 
 This whole POC has been built on MAC OS
 
